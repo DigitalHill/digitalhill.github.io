@@ -50,7 +50,7 @@ Id's and classes
 
 #introduction {
   text-align: left;
-  color:black;
+  color:#373737;
   padding-bottom:0.5em;
 }
 
@@ -60,11 +60,11 @@ Id's and classes
 }
 
 .markred { /*this class is used to mark up the words that are to be highlighted in red */
-  color: black;
+  color: #373737;
 }
 
 .markgreen { /*this class is used to mark up the words that are to be highlighted in green */
-  color: black;
+  color: #373737;
 }
 
 .green { /*this class designates the new color for all words that belong to the class markgreen */
@@ -103,47 +103,47 @@ Id's and classes
 }
 
 .marknoun { /* this class is set upon nouns and equals */
-  color: black;
+  color: #373737;
 }
 
 .markverb { /* this class is set upon verbs and equals */
-  color: black;
+  color: #373737;
 }
 
 .markconj { /* this class is set upon conjunctions */
-  color: black;
+  color: #373737;
 }
 
 .markpron { /*this class is set upon pronouns */
-  color: black;
+  color: #373737;
 }
 
 .markart { /*this class is set upon articles */
-  color: black;
+  color: #373737;
 }
 
 .markadj { /*this class is set upon adjectives */
-  color: black;
+  color: #373737;
 }
 
 .markadp { /* this class is set upon adpositions */
-  color: black;
+  color: #373737;
 }
 
 .markitr { /*this class is set upon interjunctions */
-  color: black;
+  color: #373737;
 }
 
 .markirr { /* this class is set upon irregulars; it is not used yet */
-  color: black;
+  color: #373737;
 }
 
 .markadv { /*this class is set upon adverbs */
-  color: black;
+  color: #373737;
 }
 
 .marknum { /*this class is set upon numbers*/
-    color:black;
+    color:#373737;
 }
 /*the following classes are toggled when the button is clicked; the colorcodes were taken from Arethusa github files*/
 .number {
