@@ -45,6 +45,156 @@ table {
 }
 
 /*******************************************************************************
+Id's and classes
+*******************************************************************************/
+
+#introduction {
+  text-align: left;
+  color:black;
+  padding-bottom:0.5em;
+}
+
+.translation {
+  font-weight: bold;
+  color: blue;
+}
+
+.markred { /*this class is used to mark up the words that are to be highlighted in red */
+  color: black;
+}
+
+.markgreen { /*this class is used to mark up the words that are to be highlighted in green */
+  color: black;
+}
+
+.green { /*this class designates the new color for all words that belong to the class markgreen */
+  color: green;
+}
+
+#colorpen { /* this class is used to trigger the jquery */
+  border: solid black 1px;
+  color: black;
+}
+
+.red { /*this class designates the new color for all words that belong to the class markred */
+  color: red;
+}
+
+.latin {
+  font-style: italic;
+}
+
+#arethusapen { /* this class is used to trigger the jquery */
+  color: black;
+  background-color: #f1f1f1;
+  border: solid 1px black;
+}
+
+#verbpen {
+    color: red;
+    border: solid 1px red;
+    background-color: #f1f1f1;
+}
+
+#nounpen {
+    color: rgb(43, 114, 124);
+    border: solid 1px rgb(43, 114, 124);
+    background-color: #f1f1f1;
+}
+
+.marknoun { /* this class is set upon nouns and equals */
+  color: black;
+}
+
+.markverb { /* this class is set upon verbs and equals */
+  color: black;
+}
+
+.markconj { /* this class is set upon conjunctions */
+  color: black;
+}
+
+.markpron { /*this class is set upon pronouns */
+  color: black;
+}
+
+.markart { /*this class is set upon articles */
+  color: black;
+}
+
+.markadj { /*this class is set upon adjectives */
+  color: black;
+}
+
+.markadp { /* this class is set upon adpositions */
+  color: black;
+}
+
+.markitr { /*this class is set upon interjunctions */
+  color: black;
+}
+
+.markirr { /* this class is set upon irregulars; it is not used yet */
+  color: black;
+}
+
+.markadv { /*this class is set upon adverbs */
+  color: black;
+}
+
+.marknum { /*this class is set upon numbers*/
+    color:black;
+}
+/*the following classes are toggled when the button is clicked; the colorcodes were taken from Arethusa github files*/
+.number {
+    color: lightgreen;
+}
+
+.article {
+  color: lightblue;
+}
+
+.noun {
+  color: rgb(43, 114, 124);
+}
+
+.adjective {
+  color: blue;
+}
+
+.pronoun {
+  color: purple;
+}
+
+.adverb {
+  color: darkorange;
+}
+
+.adposition {
+  color: green;
+}
+
+.conjunction {
+  color: deeppink;
+}
+
+.interjection {
+  color: gold;
+}
+
+.irregular {
+  color: grey;
+}
+
+.verb {
+  color: red;
+}
+/*this class is toggled when a user hovers over a span due to a jquery programme*/
+.highlight {
+    background-color: pink;
+}
+
+/*******************************************************************************
 Theme Styles
 *******************************************************************************/
 
@@ -69,12 +219,14 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 36px;
   font-weight: 700;
+  text-align: center;
 }
 
 h2 {
   padding-bottom: 10px;
   font-size: 32px;
   background: url('../images/bg_hr.png') repeat-x bottom;
+  text-align: center;
 }
 
 h3 {
@@ -103,7 +255,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #007edf;
+  color: #222222; /*#007edf; */
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -234,7 +386,7 @@ hr {
 }
 
 table {
-  border: 1px solid #373737;
+  border: none;
   margin-bottom: 20px;
   text-align: left;
  }
@@ -248,7 +400,7 @@ th {
 
 td {
   padding: 10px;
-  border: 1px solid #373737;
+  border: none;
  }
 
 form {
