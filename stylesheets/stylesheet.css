@@ -63,14 +63,6 @@ Id's and classes
   color: #373737;
 }
 
-.markgreen { /*this class is used to mark up the words that are to be highlighted in green */
-  color: #373737;
-}
-
-.green { /*this class designates the new color for all words that belong to the class markgreen */
-  color: green;
-}
-
 #colorpen { /* this class is used to trigger the jquery */
   border: solid black 1px;
   color: black;
