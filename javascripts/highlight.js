@@ -8,248 +8,248 @@ $(document).ready(function() {  //this programme starts once the mainpage is loa
 		}; // according to the title, all spans with the same title-attribute are found and the class highlight is toggled on them
 		if (hl == "1-1") {
 			$elementTable.find('span[title=1-1]').toggleClass('highlight');
-		};
-		if (hl == "1-2") {
+		}
+		else if (hl == "1-2") {
 			$elementTable.find('span[title=1-2]').toggleClass('highlight');
-		};
-		if (hl == "1-3") {
+		}
+		else if (hl == "1-3") {
 			$elementTable.find('span[title=1-3]').toggleClass('highlight');
-		};
-		if (hl == "1-4") {
+		}
+		else if (hl == "1-4") {
 			$elementTable.find('span[title=1-4]').toggleClass('highlight');
-		};
-		if (hl == "1-5") {
+		}
+		else if (hl == "1-5") {
 			$elementTable.find('span[title=1-5]').toggleClass('highlight');
-		};
-		if (hl == "1-6") {
+		}
+		else if (hl == "1-6") {
 			$elementTable.find('span[title=1-6]').toggleClass('highlight');
-		};
-		if (hl == "1-7") {
+		}
+		else if (hl == "1-7") {
 			$elementTable.find('span[title=1-7]').toggleClass('highlight');
-		};
-		if (hl == "1-8") {
+		}
+		else if (hl == "1-8") {
 			$elementTable.find('span[title=1-8]').toggleClass('highlight');
-		};
-		if (hl == "1-9") {
+		}
+		else if (hl == "1-9") {
 			$elementTable.find('span[title=1-9]').toggleClass('highlight');
-		};
-		if (hl == "1-10") {
+		}
+		else if (hl == "1-10") {
 			$elementTable.find('span[title=1-10]').toggleClass('highlight');
-		};
-		if (hl == "1-11") {
+		}
+		else if (hl == "1-11") {
 			$elementTable.find('span[title=1-11]').toggleClass('highlight');
-		};
-		if (hl == "1-12") {
+		}
+		else if (hl == "1-12") {
 			$elementTable.find('span[title=1-12]').toggleClass('highlight');
-		};
-		if (hl == "1-13") {
+		}
+		else if (hl == "1-13") {
 			$elementTable.find('span[title=1-13]').toggleClass('highlight');
-		};
-		if (hl == "1-14") {
+		}
+		else if (hl == "1-14") {
 			$elementTable.find('span[title=1-14]').toggleClass('highlight');
-		};
-		if (hl == "1-15") {
+		}
+		else if (hl == "1-15") {
 			$elementTable.find('span[title=1-15]').toggleClass('highlight');
-		};
-		if (hl == "1-16") {
+		}
+		else if (hl == "1-16") {
 			$elementTable.find('span[title=1-16]').toggleClass('highlight');
-		};
-		if (hl == "1-17") {
+		}
+		else if (hl == "1-17") {
 			$elementTable.find('span[title=1-17]').toggleClass('highlight');
-		};
-		if (hl == "1-18") {
+		}
+		else if (hl == "1-18") {
 			$elementTable.find('span[title=1-18]').toggleClass('highlight');
-		};
-		if (hl == "1-19") {
+		}
+		else if (hl == "1-19") {
 			$elementTable.find('span[title=1-19]').toggleClass('highlight');
-		};
-		if (hl == "1-20") {
+		}
+		else if (hl == "1-20") {
 			$elementTable.find('span[title=1-20]').toggleClass('highlight');
-		};
-		if (hl == "1-21") {
+		}
+		else if (hl == "1-21") {
 			$elementTable.find('span[title=1-21]').toggleClass('highlight');
-		};
-		if (hl == "1-22") {
+		}
+		else if (hl == "1-22") {
 			$elementTable.find('span[title=1-22]').toggleClass('highlight');
-		};
-		if (hl == "1-23") {
+		}
+		else if (hl == "1-23") {
 			$elementTable.find('span[title=1-23]').toggleClass('highlight');
-		};
-		if (hl == "1-24") {
+		}
+		else if (hl == "1-24") {
 			$elementTable.find('span[title=1-24]').toggleClass('highlight');
-		};
-		if (hl == "1-25") {
+		}
+		else if (hl == "1-25") {
 			$elementTable.find('span[title=1-25]').toggleClass('highlight');
-		};
-		if (hl == "1-26") {
+		}
+		else if (hl == "1-26") {
 			$elementTable.find('span[title=1-26]').toggleClass('highlight');
-		};
-		if (hl == "1-27") {
+		}
+		else if (hl == "1-27") {
 			$elementTable.find('span[title=1-27]').toggleClass('highlight');
-		};
-		if (hl == "1-28") {
+		}
+		else if (hl == "1-28") {
 			$elementTable.find('span[title=1-28]').toggleClass('highlight');
-		};
-		if (hl == "1-29") {
+		}
+		else if (hl == "1-29") {
 			$elementTable.find('span[title=1-29]').toggleClass('highlight');
-		};
-		if (hl == "1-30") {
+		}
+		else if (hl == "1-30") {
 			$elementTable.find('span[title=1-30]').toggleClass('highlight');
-		};
-		if (hl == "1-31") {
+		}
+		else if (hl == "1-31") {
 			$elementTable.find('span[title=1-31]').toggleClass('highlight');
-		};
-		if (hl == "1-32") {
+		}
+		else if (hl == "1-32") {
 			$elementTable.find('span[title=1-32]').toggleClass('highlight');
-		};
-		if (hl == "1-33") {
+		}
+		else if (hl == "1-33") {
 			$elementTable.find('span[title=1-33]').toggleClass('highlight');
-		};
-		if (hl == "1-34") {
+		}
+		else if (hl == "1-34") {
 			$elementTable.find('span[title=1-34]').toggleClass('highlight');
-		};
-		if (hl == "1-35") {
+		}
+		else if (hl == "1-35") {
 			$elementTable.find('span[title=1-35]').toggleClass('highlight');
-		};
-		if (hl == "1-36") {
+		}
+		else if (hl == "1-36") {
 			$elementTable.find('span[title=1-36]').toggleClass('highlight');
-		};
-		if (hl == "1-37") {
+		}
+		else if (hl == "1-37") {
 			$elementTable.find('span[title=1-37]').toggleClass('highlight');
-		};
-		if (hl == "1-38") {
+		}
+		else if (hl == "1-38") {
 			$elementTable.find('span[title=1-38]').toggleClass('highlight');
-		};
-		if (hl == "1-39") {
+		}
+		else if (hl == "1-39") {
 			$elementTable.find('span[title=1-39]').toggleClass('highlight');
-		};
-		if (hl == "1-40") {
+		}
+		else if (hl == "1-40") {
 			$elementTable.find('span[title=1-40]').toggleClass('highlight');
-		};
-		if (hl == "1-41") {
+		}
+		else if (hl == "1-41") {
 			$elementTable.find('span[title=1-41]').toggleClass('highlight');
-		};
-		if (hl == "1-42") {
+		}
+		else if (hl == "1-42") {
 			$elementTable.find('span[title=1-42]').toggleClass('highlight');
-		};
-		if (hl == "1-43") {
+		}
+		else if (hl == "1-43") {
 			$elementTable.find('span[title=1-43]').toggleClass('highlight');
-		};
-		if (hl == "1-44") {
+		}
+		else if (hl == "1-44") {
 			$elementTable.find('span[title=1-44]').toggleClass('highlight');
-		};
-		if (hl == "1-45") {
+		}
+		else if (hl == "1-45") {
 			$elementTable.find('span[title=1-45]').toggleClass('highlight');
-		};
-		if (hl == "1-46") {
+		}
+		else if (hl == "1-46") {
 			$elementTable.find('span[title=1-46]').toggleClass('highlight');
-		};
-		if (hl == "1-47") {
+		}
+		else if (hl == "1-47") {
 			$elementTable.find('span[title=1-47]').toggleClass('highlight');
-		};
-		if (hl == "1-48") {
+		}
+		else if (hl == "1-48") {
 			$elementTable.find('span[title=1-48]').toggleClass('highlight');
-		};
-		if (hl == "1-49") {
+		}
+		else if (hl == "1-49") {
 			$elementTable.find('span[title=1-49]').toggleClass('highlight');
-		};
-		if (hl == "1-50") {
+		}
+		else if (hl == "1-50") {
 			$elementTable.find('span[title=1-50]').toggleClass('highlight');
-		};
-		if (hl == "1-51") {
+		}
+		else if (hl == "1-51") {
 			$elementTable.find('span[title=1-51]').toggleClass('highlight');
-		};
-		if (hl == "1-52") {
+		}
+		else if (hl == "1-52") {
 			$elementTable.find('span[title=1-52]').toggleClass('highlight');
-		};
-		if (hl == "1-53") {
+		}
+		else if (hl == "1-53") {
 			$elementTable.find('span[title=1-53]').toggleClass('highlight');
-		};
-		if (hl == "1-54") {
+		}
+		else if (hl == "1-54") {
 			$elementTable.find('span[title=1-54]').toggleClass('highlight');
-		};
-		if (hl == "2-1") {
+		}
+		else if (hl == "2-1") {
 			$elementTable.find('span[title=2-1]').toggleClass('highlight');
-		};
-		if (hl == "2-2") {
+		}
+		else if (hl == "2-2") {
 			$elementTable.find('span[title=2-2]').toggleClass('highlight');
-		};
-		if (hl == "2-3") {
+		}
+		else if (hl == "2-3") {
 			$elementTable.find('span[title=2-3]').toggleClass('highlight');
-		};
-		if (hl == "2-4") {
+		}
+		else if (hl == "2-4") {
 			$elementTable.find('span[title=2-4]').toggleClass('highlight');
-		};
-		if (hl == "2-5") {
+		}
+		else if (hl == "2-5") {
 			$elementTable.find('span[title=2-5]').toggleClass('highlight');
-		};
-		if (hl == "2-6") {
+		}
+		else if (hl == "2-6") {
 			$elementTable.find('span[title=2-6]').toggleClass('highlight');
-		};
-		if (hl == "2-7") {
+		}
+		else if (hl == "2-7") {
 			$elementTable.find('span[title=2-7]').toggleClass('highlight');
-		};
-		if (hl == "2-8") {
+		}
+		else if (hl == "2-8") {
 			$elementTable.find('span[title=2-8]').toggleClass('highlight');
-		};
-		if (hl == "2-9") {
+		}
+		else if (hl == "2-9") {
 			$elementTable.find('span[title=2-9]').toggleClass('highlight');
-		};
-		if (hl == "2-10") {
+		}
+		else if (hl == "2-10") {
 			$elementTable.find('span[title=2-10]').toggleClass('highlight');
-		};
-		if (hl == "2-11") {
+		}
+		else if (hl == "2-11") {
 			$elementTable.find('span[title=2-11]').toggleClass('highlight');
-		};
-		if (hl == "2-12") {
+		}
+		else if (hl == "2-12") {
 			$elementTable.find('span[title=2-12]').toggleClass('highlight');
-		};
-		if (hl == "2-13") {
+		}
+		else if (hl == "2-13") {
 			$elementTable.find('span[title=2-13]').toggleClass('highlight');
-		};
-		if (hl == "2-14") {
+		}
+		else if (hl == "2-14") {
 			$elementTable.find('span[title=2-14]').toggleClass('highlight');
-		};
-		if (hl == "2-15") {
+		}
+		else if (hl == "2-15") {
 			$elementTable.find('span[title=2-15]').toggleClass('highlight');
-		};
-		if (hl == "2-16") {
+		}
+		else if (hl == "2-16") {
 			$elementTable.find('span[title=2-16]').toggleClass('highlight');
-		};
-		if (hl == "2-17") {
+		}
+		else if (hl == "2-17") {
 			$elementTable.find('span[title=2-17]').toggleClass('highlight');
-		};
-		if (hl == "2-18") {
+		}
+		else if (hl == "2-18") {
 			$elementTable.find('span[title=2-18]').toggleClass('highlight');
-		};
-		if (hl == "2-19") {
+		}
+		else if (hl == "2-19") {
 			$elementTable.find('span[title=2-19]').toggleClass('highlight');
-		};
-		if (hl == "2-20") {
+		}
+		else if (hl == "2-20") {
 			$elementTable.find('span[title=2-20]').toggleClass('highlight');
-		};
-		if (hl == "2-21") {
+		}
+		else if (hl == "2-21") {
 			$elementTable.find('span[title=2-21]').toggleClass('highlight');
-		};
-		if (hl == "2-22") {
+		}
+		else if (hl == "2-22") {
 			$elementTable.find('span[title=2-22]').toggleClass('highlight');
-		};
-		if (hl == "2-23") {
+		}
+		else if (hl == "2-23") {
 			$elementTable.find('span[title=2-23]').toggleClass('highlight');
-		};
-		if (hl == "2-24") {
+		}
+		else if (hl == "2-24") {
 			$elementTable.find('span[title=2-24]').toggleClass('highlight');
-		};
-		if (hl == "2-25") {
+		}
+		else if (hl == "2-25") {
 			$elementTable.find('span[title=2-25]').toggleClass('highlight');
-		};
-		if (hl == "2-26") {
+		}
+		else if (hl == "2-26") {
 		              $elementTable.find('span[title=2-26]').toggleClass('highlight');
-		};
-		if (hl == "2-27") {
+		}
+		else if (hl == "2-27") {
 			$elementTable.find('span[title=2-27]').toggleClass('highlight');
-		};
-		if (hl == "2-28") {
+		}
+		else if (hl == "2-28") {
 			$elementTable.find('span[title=2-28]').toggleClass('highlight');
 		};
 		if (hl == "2-29") {
